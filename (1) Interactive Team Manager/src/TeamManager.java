@@ -141,7 +141,7 @@ public class TeamManager {
      */
     public static void printMenu() {
         System.out.println("\nPlease select an option:\nA) Add Player.\nG) Get Players stats.\nL) Get leader in a stat.\nR) Remove a player." +
-         "\nP) Print all players.\nS) Size of team.\nT) Select team.\nC) Clone team.\nE) Team equals.\nU) Update stat." +
+        "\nP) Print all players.\nS) Size of team.\nT) Select team.\nC) Clone team.\nE) Team equals.\nU) Update stat." +
         "\nQ) Quit.\n");
         System.out.println("\nSelect a menu option: ");
     }
